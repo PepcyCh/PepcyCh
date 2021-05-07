@@ -19,4 +19,4 @@ A computer science student in Zhejiang University, interested in computer graphi
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=PepcyCh&show_icons=true&count_private=true&theme=radical)](https://github.com/PepcyCh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepcyCh&layout=compact&hide=html&theme=radical)](https://github.com/PepyCh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepcyCh&layout=compact&hide=html,c&theme=radical)](https://github.com/PepyCh)
