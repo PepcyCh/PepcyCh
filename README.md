@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A computer science student in Zhejiang University, interested in computer graphics (especially rendering).
+A computer science ungraduate student in Zhejiang University, interested in computer graphics (especially rendering) and game development.
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=PepcyCh&show_icons=true&count_private=true&theme=radical)](https://github.com/PepcyCh)
+I am currently working on rendering with Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepcyCh&layout=compact&hide=html,c&theme=radical)](https://github.com/PepyCh)
+[![Stats](https://github-readme-stats.vercel.app/api?username=PepcyCh&show_icons=true&count_private=true&theme=flag-india)](https://github.com/PepcyCh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepcyCh&layout=compact&hide=html,c&theme=flag-india)](https://github.com/PepyCh)
