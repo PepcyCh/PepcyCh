@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 A computer science ungraduate student in Zhejiang University, interested in computer graphics (especially rendering) and game development.
 
-I am currently working on rendering with Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/).
+I am currently working on rendering with Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) in State Key Lab of CAD & CG, Zhejiang University.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=PepcyCh&show_icons=true&count_private=true&theme=flag-india)](https://github.com/PepcyCh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepcyCh&layout=compact&hide=html,c&theme=flag-india)](https://github.com/PepyCh)
+
+Also a fan of Japanese anime and comic. The girl on my avatar is Umika Konohoshi (小ノ星　海果), heroine of comic Hoshikuzu Telepass (星屑テレパス).
