@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A computer science ungraduate student in Zhejiang University, interested in computer graphics (especially rendering) and game development.
+A computer science master student in Zhejiang University, interested in computer graphics (especially rendering) and game development.
 
 I am currently working on rendering with Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) in State Key Lab of CAD & CG, Zhejiang University.
 
