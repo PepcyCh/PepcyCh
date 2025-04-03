@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A computer science master student in **Zhejiang University**, interested in **computer graphics** (especially rendering) and **game development**.
+I received my bachelor's and master's degrees in computer science from **Zhejiang University**.
 
-I am currently working on rendering with Prof. [Rui Wang](http://www.cad.zju.edu.cn/home/rwang/) in **State Key Lab of CAD & CG**, Zhejiang University.
+I am interested in **computer graphics** (especially rendering) and **game development**, and now working for a game company.
 
 ---
 
@@ -27,13 +27,13 @@ Learn more aboute me
 
 Skills
 * Programming Languages
-  * C++, Python, Rust, ...
-* Graphics & Game Dev
-  * Vulkan, D3D12, OpenGL
-  * Unreal, Unity 3D
+  * C++, Python, C#, Rust, ...
 * Natural Languages
   * Chinese, English, Japanese
+* Graphics & Game Dev
+  * Vulkan > OpenGL = D3D12, 
+  * Unity 3D > Unreal
 
 ---
 
-Also a fan of Japanese anime and comic. The girl on my avatar is *Umika Konohoshi* (小ノ星　海果), heroine of comic *Hoshikuzu Telepass* (星屑テレパス).
+Also a fan of Japanese anime and comic.
